@@ -27,6 +27,8 @@ I had an issue with the secret keys and creating a new release. I basically put 
 
 <img width="1440" alt="Screen Shot 2022-05-16 at 10 55 14 PM" src="https://user-images.githubusercontent.com/61167315/168739126-192ce1a4-5149-4216-acb2-4cec6b0f0e86.png">
 
+<img width="1440" alt="Screen Shot 2022-05-16 at 10 43 03 PM" src="https://user-images.githubusercontent.com/61167315/168739532-8bee6340-555f-4a15-845e-b292dd6e2356.png">
+
 
 <img width="1440" alt="Screen Shot 2022-05-16 at 10 34 44 PM" src="https://user-images.githubusercontent.com/61167315/168739149-3adb5f43-30de-40f7-a8ce-f7fabc493ddd.png">
 
@@ -43,4 +45,5 @@ I had an issue with the secret keys and creating a new release. I basically put 
 
 
 <img width="1440" alt="Screen Shot 2022-05-16 at 10 57 02 PM" src="https://user-images.githubusercontent.com/61167315/168739451-f898d336-b229-41ed-89b7-1d3fe9f789c2.png">
+
 
